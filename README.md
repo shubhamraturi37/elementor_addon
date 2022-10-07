@@ -1,4 +1,4 @@
-# Custom Plugin for elementor
+# Custom Plugin for elementor addon
 ## Features
 * Top Banner
 * Portpolio
